@@ -4,5 +4,5 @@
 The implementation of FedBCD.
 
 
-## TBD (To Be Determined)
+## TBD
 - Upload the source-code of FedBCD
