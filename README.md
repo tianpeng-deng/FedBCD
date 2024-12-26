@@ -2,9 +2,7 @@
 
 
 ## Introduction
-The implementation of our paper [FedBCD]. The paper is under review in IEEE Transactions on Medical Imaging
-
-
+The implementation of our paper [FedBCD]. The paper is under review in *IEEE Transactions on Medical Imaging*.
 
 ## Usage
 ### Installation
@@ -52,4 +50,4 @@ bash script/run_ultrasound.sh
 
 
 ## Citation
-Our paper is under review in IEEE Transactions on Medical Imaging, the citation will be available after acceptance.
+Our paper is under review in *IEEE Transactions on Medical Imaging*, the citation will be available after acceptance.
